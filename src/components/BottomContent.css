@@ -1,0 +1,17 @@
+.wrapper-bottom {
+  width: 100%;
+  min-width: 334px;
+  margin: 0 auto;
+  background-color: hsl(237, 23%, 32%);
+  padding: 50px 50px;
+  height: 50vh;
+  text-align: center;
+}
+
+.wrapper-bottom_content-1,
+.wrapper-bottom_content-2 {
+  width: 80%;
+  color: white;
+  padding-bottom: 20px;
+  text-align: left;
+}

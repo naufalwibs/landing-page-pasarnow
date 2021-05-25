@@ -1,0 +1,21 @@
+.wrapper-top {
+  width: 100%;
+  min-width: 334px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 50px 50px;
+  height: 50vh;
+  text-align: center;
+}
+
+.wrapper-top_content-1,
+.wrapper-top_content-2 {
+  width: 50%;
+  padding: 15px 0;
+  text-align: left;
+}
+
+.title-content-1 {
+  padding: 20px 0;
+  text-align: center;
+}
